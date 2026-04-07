@@ -1,0 +1,50 @@
+# Informational requests 
+
+List all devices that can detect vibrations.
+Is sensor 3 located in area 2 or area 1?
+What measurement units does sensor 4 use for rotation speed
+show me sensors for noise I can access in area 2
+Can sensor 5 measure both engine and surface temperature?
+what parametrs are on sensor 1?
+Does sensor 9 exist in area 1?
+give me the metadata for all Hz measuring devices
+list sensors in area 3 
+Which sensors in area 1 measure temp_motore?
+
+# Monitoring requests
+
+Monitor vel_rotazione for sensor1
+I need real-time dB levels from sensor5
+stream temp_superficie from area2
+get live vibrazioni data for sensor4
+what is the current radian per second on sensor3?
+plz live data for sensor1 and sensor5
+monitr temp_motore on sensor4
+Give me the current stream for sensor 8
+show real-time info for rumore in area1
+Check rad/s for sensor5 immediately
+
+# Querying requests
+What was the avg temp_motore for sensor 1 between yesterday and today at noon?
+Show me the max vibrazioni in area 2 from 5 days ago until now.
+I need the min rumore levels for sensor 5 and for sensor 1 starting last Monday at 08:00:00 to today.
+calculate average vel_rotazione for area 1 for the last 3 hours
+what was the max temp_superficie for sensor 3 between yesterday at 6 PM and today at 6 AM?
+extract vibrazioni data for sensor 4 from 2 days ago to yesterday at midnight
+give me avg noise in area 1 from 10 days ago to 5 days ago
+find max temp_motore for sensor 9 since yesterday morning
+get min vel_rotazione for sensor 1 between last night at 11 PM and today at 1 AM
+show avg vibrazioni in area 2 for the past 30 minutes
+
+#Out-of-scope requests
+
+What is the weather forecast for the city where Area 1 is located?
+Sensor 4 is overheating; please shut down the motor immediately.
+Show me the heart rate and fatigue levels.
+Predict the max vibrazioni for sensor 4 for next Tuesday morning.
+What is the replacement cost for Sensor 3 if it breaks today?
+Show me the temperature for the 'Blue Machine' near the coffee break area.
+Give me the SQL connection string and password for the database where sensor 1 stores data.
+Analyze the security camera feed in Area 1 and tell me if anyone is wearing a helmet.
+Order a replacement set of ball bearings for the motor connected to sensor 1.
+Who was the technician that performed the last maintenance on sensor 5?

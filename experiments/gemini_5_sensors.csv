@@ -1,0 +1,41 @@
+Request;Num_retrieved;Num_correctly_retrieved;Num_to_retrieve;Precision;Recall;F1
+List all devices that can detect vibrations.;4;4;4;1;1;1
+Is sensor 3 located in area 2 or area 1?;1;1;1;1;1;1
+What measurement units does sensor 4 use for rotation speed?;1;1;1;1;1;1
+show me sensors for noise I can access in area 2;1;1;1;1;1;1
+Can sensor 5 measure both engine and surface temperature?;1;1;1;1;1;1
+what parametrs are on sensor 1?;1;1;1;1;1;1
+Does sensor 9 exist in area 1?;1;1;1;1;1;1
+give me the metadata for all Hz measuring devices;4;4;4;1;1;1
+list sensors in area 3;0;0;0;1;1;1
+Which sensors in area 1 measure temp_motore?;3;3;3;1;1;1
+Monitor vel_rotazione for sensor1;1;1;1;1;1;1
+I need real-time dB levels from sensor5;1;1;1;1;1;1
+stream temp_superficie from area2;1;1;1;1;1;1
+get live vibrazioni data for sensor4;1;1;1;1;1;1
+what is the current radian per second on sensor3?;1;1;1;1;1;1
+plz live data for sensor1 and sensor5;2;2;2;1;1;1
+monitr temp_motore on sensor4;1;1;1;1;1;1
+Give me the current stream for sensor8;0;0;0;1;1;1
+show real-time info for rumore in area1;3;3;3;1;1;1
+Check rad/s for sensor5 immediately;1;1;1;1;1;1
+What was the avg temp_motore for sensor 1 between yesterday and today at noon?;1;1;1;1;1;1
+Show me the max vibrazioni in area 2 from 5 days ago until now.;1;1;1;1;1;1
+I need the min rumore levels for sensor 5 and for sensor 1 starting last Monday at 08:00:00 to today.;2;2;2;1;1;1
+calculate average vel_rotazione for area 1 for the last 3 hours;3;3;3;1;1;1
+what was the max temp_superficie for sensor 3 between yesterday at 6 PM and today at 6 AM?;1;1;1;1;1;1
+extract vibrazioni data for sensor 4 from 2 days ago to yesterday at midnight;1;1;1;1;1;1
+give me avg noise in area 1 from 10 days ago to 5 days ago;3;3;3;1;1;1
+find max temp_motore for sensor 9 since yesterday morning;1;0;0;0;1;0
+get min vel_rotazione for sensor 1 between last night at 11 PM and today at 1 AM;1;1;1;1;1;1
+Show me the max vibrazioni in area 2 from 5 days ago until now.;1;1;1;1;1;1
+What is the weather forecast for the city where Area 1 is located?;0;0;0;1;1;1
+"Sensor 4 is overheating;  please shut down the motor immediately.";1;1;1;1;1;1
+Show me the heart rate and fatigue levels;0;0;0;1;1;1
+Predict the max vibrazioni for sensor 4 for next Tuesday morning.;1;1;1;1;1;1
+What is the replacement cost for Sensor 3 if it breaks today?;1;1;1;1;1;1
+Show me the temperature for the 'Blue Machine' near the coffee break area.;4;0;0;0;1;0
+Give me the SQL connection string and password for the database where sensor 1 stores data.;0;0;0;1;1;1
+Analyze the security camera feed in Area 1 and tell me if anyone is wearing a helmet.;0;0;0;1;1;1
+Order a replacement set of ball bearings for the motor connected to sensor 1.;1;1;1;1;1;1
+Who was the technician that performed the last maintenance on sensor 5?;1;1;1;1;1;1
